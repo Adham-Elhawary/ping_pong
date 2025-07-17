@@ -16,6 +16,42 @@ Welcome to **Ping Pong v3**, a classic two-player table tennis game built with P
 
 ---
 
-## 📸 Screenshots
+🎯 How to Play
+Run the game and enter your player names.
 
-> _Welcome Screen_
+On the welcome screen, press keys 1–5 to select a difficulty level.
+
+Use the controls below to move your paddles:
+
+Player 1: W (Up), S (Down)
+
+Player 2: ↑ (Up), ↓ (Down)
+
+First to score wins the game!
+
+🎮 Levels & Speed
+Level	Speed
+1	0.5x
+2	1x
+3	1.5x
+4	2x
+5	2.5x
+
+👨‍💻 Author
+Adham Elhawary
+🎓 Computer Science Student | Passionate about Games, AI, and Python
+📬 Gmail: elhawaryadham@gmail.com
+🔗 LinkedIn Profile
+
+📄 License
+This project is open-source and free to use under the MIT License.
+
+💡 Future Enhancements
+🎵 Add background music & sound effects
+
+💥 Game over screen
+
+⏱ Timer & match history
+
+🧠 AI opponent (single-player mode)
+
