@@ -56,10 +56,3 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 
 ---
 
-## 💡 Future Enhancements
-
-- 🎵 Add background music & sound effects  
-- 💥 Game over screen  
-- ⏱ Timer & match history  
-- 🧠 AI opponent (single-player mode)
-
