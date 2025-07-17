@@ -45,7 +45,7 @@ Welcome to **Ping Pong v3**, a classic two-player table tennis game built with P
 
 **Adham Elhawary**  
 🎓 Computer Science Student | Passionate about Games, AI, and Python  
-📬 **Gmail**: [elhawaryadham@gmail.com](mailto:adhambassem1000000@gmail.com)  
+📬 **Gmail**: [adhambassem1000000@gmail.com](mailto:adhambassem1000000@gmail.com)  
 🔗 **[LinkedIn Profile](https://www.linkedin.com/in/adham-elhawary-26944a2b3/)**
 
 ---
