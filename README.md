@@ -16,42 +16,50 @@ Welcome to **Ping Pong v3**, a classic two-player table tennis game built with P
 
 ---
 
-🎯 How to Play
-Run the game and enter your player names.
+## 🎯 How to Play
 
-On the welcome screen, press keys 1–5 to select a difficulty level.
+1. Run the game and enter your player names.
+2. On the welcome screen, press keys `1–5` to select a difficulty level.
+3. Use the controls below to move your paddles:
 
-Use the controls below to move your paddles:
+   - **Player 1**: `W` (Up), `S` (Down)  
+   - **Player 2**: `↑` (Up), `↓` (Down)
 
-Player 1: W (Up), S (Down)
+4. First to score wins the game!
 
-Player 2: ↑ (Up), ↓ (Down)
+---
 
-First to score wins the game!
+## 🎮 Levels & Speed
 
-🎮 Levels & Speed
-Level	Speed
-1	0.5x
-2	1x
-3	1.5x
-4	2x
-5	2.5x
+| Level | Speed |
+|-------|-------|
+| 1     | 0.5x  |
+| 2     | 1x    |
+| 3     | 1.5x  |
+| 4     | 2x    |
+| 5     | 2.5x  |
 
-👨‍💻 Author
-Adham Elhawary
-🎓 Computer Science Student | Passionate about Games, AI, and Python
-📬 Gmail: elhawaryadham@gmail.com
-🔗 LinkedIn Profile
+---
 
-📄 License
-This project is open-source and free to use under the MIT License.
+## 👨‍💻 Author
 
-💡 Future Enhancements
-🎵 Add background music & sound effects
+**Adham Elhawary**  
+🎓 Computer Science Student | Passionate about Games, AI, and Python  
+📬 **Gmail**: [elhawaryadham@gmail.com](mailto:elhawaryadham@gmail.com)  
+🔗 **[LinkedIn Profile](https://www.linkedin.com/in/adham-elhawary-26944a2b3/)**
 
-💥 Game over screen
+---
 
-⏱ Timer & match history
+## 📄 License
 
-🧠 AI opponent (single-player mode)
+This project is open-source and free to use under the [MIT License](LICENSE).
+
+---
+
+## 💡 Future Enhancements
+
+- 🎵 Add background music & sound effects  
+- 💥 Game over screen  
+- ⏱ Timer & match history  
+- 🧠 AI opponent (single-player mode)
 
